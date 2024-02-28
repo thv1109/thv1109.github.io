@@ -1,4 +1,5 @@
 title: Portfolio
 description: About me
 show_downloads: false
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
