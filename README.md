@@ -3,6 +3,6 @@
 ### Education
 Polyart
 
-### Work Experience
-## F.A.I Studio (2023 - now)
+## Work Experience
+### F.A.I Studio (2023 - now)
 Photography
