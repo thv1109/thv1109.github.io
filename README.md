@@ -1,6 +1,6 @@
 # Graphic Design
 
-### Education
+## Education
 Polyart
 
 ## Work Experience
