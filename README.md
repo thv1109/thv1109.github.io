@@ -4,5 +4,5 @@ portfolio website
 ## Project
 
 ## Author
-- Huy Vinh
+- [Huy Vinh](https://www.facebook.com/kakashi1196/)
 ## License
